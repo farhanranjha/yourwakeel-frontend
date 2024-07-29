@@ -1,0 +1,10 @@
+# docker-compose.yaml
+version: '3.8'
+
+services:
+    wakeel-fe:
+        image: wakeel-fe:1.0.0
+        container_name: wakeel-fe
+        build: .
+        ports:
+            - 80:80

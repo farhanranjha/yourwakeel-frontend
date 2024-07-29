@@ -1,0 +1,22 @@
+:root {
+    --primary-color: #0e385d;
+    --secondary-color: #979393;
+    --light-color: #e4ebfa;
+    --white-color: #f3f3f3;
+    --gray-color: #00000008;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    padding: 0px;
+    margin: 0px;
+}
+/* 339FFF */
+/* 0288fd */
+
+/* grey color
+00000008 */
